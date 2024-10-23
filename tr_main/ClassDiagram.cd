@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ground_transport">
+    <Position X="2.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAQAAAAIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ground_transport.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="transport">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAQIAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>transport.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="car">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEABAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>car.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="train">
+    <Position X="2.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAIAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>train.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="hourse_drawn">
+    <Position X="5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAAAAAAAAIAAAAAAAAAgAAA=</HashCode>
+      <FileName>hourse_drawn.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="water_transport">
+    <Position X="9.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAICAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>water_transport.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tanker">
+    <Position X="7.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAIAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>tanker.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="boat">
+    <Position X="9.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIACACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>boat.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="steam_boat">
+    <Position X="11.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAEAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>steam_boat.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="air_transport">
+    <Position X="16.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAQAAAAIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>air_transport.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="plane">
+    <Position X="14" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAAAAAAAAgAAAAEAAAAAAAA=</HashCode>
+      <FileName>plane.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="helicopter">
+    <Position X="16.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>helicopter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="air_ship">
+    <Position X="18.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAIAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>air_ship.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
